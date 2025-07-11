@@ -9,13 +9,13 @@
 </head>
 <body>
 
-  <h1>Hello</h1>
-  <h2>World!</h2>
+  <h1>Hello World!</h1>
+  <h2>HTML</h2>
   <p>łóśćĄĘŻŹ</p>
 
 <?php echo "PHP ...../\---\_____"; ?>
 
-  <h2>My First JavaScript</h2>
+  <h2>JavaScript</h2>
   <button type="button" onclick="document.getElementById('demo').innerHTML = Date()"> Click me to display Date and Time.</button>
   <p id="demo"></p>
 
